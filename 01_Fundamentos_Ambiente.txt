@@ -1,0 +1,22 @@
+Preparando o Ambiente
+
+Instalar o Python
+Baixar do site oficial python.org/downloads
+Marcar ✅ "Add Python to PATH" na instalação
+
+Configurar o VS CODE
+Clonar Projeto no GIT
+
+
+
+Criando o Primeiro Projeto
+Criar pasta meu_primeiro_projeto
+Criar ambiente virtual 
+Criar main.py
+
+Criar um projeto com:
+main.py (script inicial)
+.env (para variáveis secretas, exemplo: senha, API key)
+logging configurado
+
+Subir no GitHub
